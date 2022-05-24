@@ -8,6 +8,6 @@ int main(){
     // cout << *p<< endl;
     // // error is thrown
     const int a = 5;
-    a++;
+    //a++;
     return 0;
 }
